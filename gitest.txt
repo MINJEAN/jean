@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-gitest_2
+
 =======
-gitest
->>>>>>> 32b2e7cd9ac8ff1c8775c3681a8190eb920573ff
+
