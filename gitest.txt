@@ -1,1 +1,1 @@
-test clear
+test clear 123
